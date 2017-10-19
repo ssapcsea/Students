@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ Write\ a\ description\ of\ class\ Student\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Student()
+comment2.params=input
+comment2.target=Student(int)
+comment3.params=
+comment3.target=void\ printChapel()
+comment4.params=num
+comment4.target=void\ printLunch(int)
+numComments=5
